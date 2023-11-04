@@ -1,7 +1,10 @@
+<div align="center">
+
 ![omnihealth-logo](https://github.com/Douglas-Rafael/omnihealth-api/assets/137113815/8670faac-ef02-460f-a249-2243c507838b)
 
 # OmniHealth API
 
+</div>
 
 [![Java Version](https://img.shields.io/badge/Java-17-blue)](https://www.oracle.com/java/technologies/javase-downloads.html)
 [![Spring Boot Version](https://img.shields.io/badge/Spring%20Boot-3.1.4-brightgreen)](https://spring.io/projects/spring-boot)
